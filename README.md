@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaticaCamilo
 - 👀 I’m interested in: Hydrology, Earth sciences and many other things
 - 🌱 I’m currently learning: Python (Work and Raspberry pi 4b) and some C++ (arduino uno) 
-- 💞️ I’m looking to collaborate on: Raspberry / Arduino projects, A.
+- 💞️ I’m looking to collaborate on: Raspberry pi 4b / Arduino UNO projects.
 - 📫 How to reach me: @GaticaCamilo on Twitter 
 
 <!---
